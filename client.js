@@ -1,5 +1,5 @@
 // URL for the JSON file
-var url = 'http://stats.nba.com/stats/commonteamroster?LeagueID=00&Season=2016-17&TeamID=1610612744&jsonp=?';
+var url = 'http://stats.nba.com/stats/commonteamroster?LeagueID=00&Season=2016-17&TeamID=1610612744';
 
 // When the button is clicked, run this callback function
 $('#quote').click(function() {
